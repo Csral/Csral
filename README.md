@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Csral&theme=aura&column=3&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Csral&theme=algolia&column=3&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Csral&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
