@@ -1,4 +1,4 @@
-## Hi there 👋
+## 01000111 01101111 01101111 01100100 00100000 01100100 01100001 01111001 00100001
 
 <!--
 **Csral/Csral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+[![MasterHead](https://avatars.githubusercontent.com/u/89186153?v=4)](https://github.com/Csral)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Csral&theme=algolia&column=3&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
